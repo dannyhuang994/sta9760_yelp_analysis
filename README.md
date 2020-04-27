@@ -1,2 +1,3 @@
-# Analysis of 10Gb of Yelp Reviews Data Using Pyspark on AWS EMR Clusters
+# Images
 
+Screenshots of cluster configs and such
