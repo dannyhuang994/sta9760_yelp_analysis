@@ -9,4 +9,6 @@ Note that the output of the code written is provided as a means to give you stru
 ## Cluster and Notebook Configs
 
 ![notebook](https://github.com/dannyhuang994/sta9760_yelp_analysis/blob/master/Asset/notebook.png?raw=true)
+
+
 ![cluster](https://github.com/dannyhuang994/sta9760_yelp_analysis/blob/master/Asset/cluster%20summary.png?raw=true)
